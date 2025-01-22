@@ -1,3 +1,8 @@
+BRION Adèle
+DUBOIS Tom
+
+Nous nous excussons pour le manque de commit dans ce git, à vrai dire nous avions oublié qu'il fallait en faire, donc on a juste tout envoyé à la fin, désolé !
+
 # 1 La bibliothèque image
 
 ## Question 2
